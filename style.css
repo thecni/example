@@ -19,15 +19,15 @@ p {
     font-weight: 800;
 }
 
-.hero{
+.jumbotron{
     background-image: url(background.jpg);
-    min-height: 500px;
+    min-height: 650px;
     text-align: center;
     padding-top: 200px;
 }
 
 .about{
-    background-color: lightgray;
+    background-color: white;
     min-height: 300px;
     text-align: center;
     padding-top: 100px;
